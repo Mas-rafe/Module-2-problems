@@ -23,7 +23,7 @@ const surveyResponses = [
 //TODO initiate empty object
 //TODO Check if the response already exists or not.
 //TODO if it exists then increment the count
-//TODO if not the initialize it with 1
+//TODO if not then initialize it with 1
 
 const count = surveyResponses.reduce((table,response)=>{
     // if(table[response]){
